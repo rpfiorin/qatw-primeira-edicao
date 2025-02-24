@@ -1,0 +1,20 @@
+{
+  "name": "qatw-primeira-edicao",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4"
+  },
+  "dependencies": {
+    "bullmq": "^5.41.5",
+    "pg-promise": "^11.10.2",
+    "playwright": "^1.50.1"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
